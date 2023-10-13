@@ -1,7 +1,8 @@
 ## 🍕PIZZA PLACE SALES ANALYSIS
 
 
-OBJECTIVE
+### OBJECTIVES:
+
 -To analyze customer traffic trends and identify peak hours in order to optimize staffing and improve operational efficiency.
 
 -To identify the average number of pizzas in an order, as well as the top-selling pizzas, in order to inform inventory management and marketing strategies.
@@ -12,7 +13,7 @@ OBJECTIVE
 
 
 
-About the dataset:
+- ### About the dataset:
 This dataset contains 4 tables in CSV format
 
 -The Orders table contains the date & time that all table orders were placed
@@ -25,7 +26,7 @@ This dataset contains 4 tables in CSV format
 
 
 
-Steps Performed:
+### Steps Performed:
 -Connected and transformed raw data from Excel files and designed interactive reports and dashboards to complete the task.
 
 -Re-modelled the data relationship.
