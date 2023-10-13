@@ -1,7 +1,7 @@
 ## 🍕PIZZA PLACE SALES ANALYSIS
 
 
-### OBJECTIVES:
+- ### OBJECTIVES:
 
 -To analyze customer traffic trends and identify peak hours in order to optimize staffing and improve operational efficiency.
 
@@ -26,7 +26,7 @@ This dataset contains 4 tables in CSV format
 
 
 
-### Steps Performed:
+- ### Steps Performed:
 -Connected and transformed raw data from Excel files and designed interactive reports and dashboards to complete the task.
 
 -Re-modelled the data relationship.
